@@ -1,0 +1,22 @@
+{
+  "name": "sipral",
+  "version": "1.0.0",
+  "description": "This printing an array of matrix in sipral form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramghassan/Sipral-traversal.git"
+  },
+  "keywords": [
+    "sipral"
+  ],
+  "author": "ramasubramanian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramghassan/Sipral-traversal/issues"
+  },
+  "homepage": "https://github.com/ramghassan/Sipral-traversal#readme"
+}
